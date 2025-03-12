@@ -23,7 +23,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${montserrat.className} antialiased flex flex-col min-h-screen bg-[#d0b0ff] `}
+        className={`${montserrat.className} antialiased flex flex-col min-h-screen bg-slate-600 `}
       >
         <Providers>
         <Header />
