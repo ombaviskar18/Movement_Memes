@@ -17,7 +17,7 @@ const page = (props: Props) => {
       </div>
 
       <div className="w-full flex items-center justify-center text-center mt-4 mb-10">
-        <p className="text-2xl lg:text-4xl font-bold text-blue-600 capitalize ">
+        <p className="text-2xl lg:text-4xl font-bold text-white capitalize ">
           start a meme coin
         </p>
       </div>
