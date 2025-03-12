@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   title: "Movement Memes",
   description: "where to get your memes",
   icons: {
-    icon: "/svg/smile2.svg",
+    icon: "/svg/next.svg",
   },
 };
 
