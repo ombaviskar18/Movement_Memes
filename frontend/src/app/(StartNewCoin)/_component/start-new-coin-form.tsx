@@ -105,29 +105,7 @@ export function CustomForm() {
     hash:tx,
   })
   console.log(resultx,"llg")
- const resultxcheck = resultx
-  useEffect(() => {
-   
-    // console.log(publicMinthash, publicMintstatus, "status>>>>");
-    if (resultxcheck) {
-      toast({
-        title: "Sucessfully created your token",
-        className:
-          "flex flex-col gap-y-8 bg-[#d0b0ff] border-2 border-primarycolor",
-        action: (
-          <ToastAction altText="Try again">
-            {/* <div className="flex gap-x-2 flex-col gap-y-2 items-center ">
-              <span>0x8339949933393938</span>
-              <span>copy address</span>
-              <Clipboard />
-            </div> */}
-          </ToastAction>
-        ),
-      });
-    }
-   
-  }, []);
-
+ 
   return (
     <Form {...form}>
       <form onSubmit={form.handleSubmit(onSubmit)} className="space-y-5">
