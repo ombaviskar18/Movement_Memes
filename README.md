@@ -17,7 +17,8 @@ Movement Memes is a revolutionary platform that enables users to create, launch,
 - **User-Friendly Interface**: Intuitive design for both beginners and experienced users
 
 ## Getting Started
-![Uploading Screenshot 2025-03-12 164229.png…]()
+![Screenshot 2025-03-12 164229](https://github.com/user-attachments/assets/f7d79f02-ac7c-417d-b8ea-492af71f1975)
+
 
 ### Prerequisites
 
