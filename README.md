@@ -1,10 +1,12 @@
 # Movement Memes  🚀
+![Screenshot 2025-03-12 162041](https://github.com/user-attachments/assets/81f8a0e2-bf58-4255-8ce6-f74eac71080b)
 
 A decentralized platform for creating and trading meme tokens using the MOVE token ecosystem.
 
 ## Overview
 
 Movement Memes is a revolutionary platform that enables users to create, launch, and trade their own meme tokens. Built on blockchain technology, it provides a seamless experience for both token creators and buyers, with MOVE token as the primary currency.
+![Screenshot 2025-03-12 164156](https://github.com/user-attachments/assets/1355db8f-45d3-4c53-b9e5-d4298c22b7d2)
 
 ## Features
 
@@ -15,6 +17,7 @@ Movement Memes is a revolutionary platform that enables users to create, launch,
 - **User-Friendly Interface**: Intuitive design for both beginners and experienced users
 
 ## Getting Started
+![Uploading Screenshot 2025-03-12 164229.png…]()
 
 ### Prerequisites
 
