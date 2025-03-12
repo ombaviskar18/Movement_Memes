@@ -88,7 +88,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Project Link: [https://github.com/yourusername/Move-Meme-master](https://github.com/yourusername/Move-Meme-master)
+Project Link: [https://github.com/yourusername/](https://github.com/yourusername/)
 
 ## Acknowledgments
 
